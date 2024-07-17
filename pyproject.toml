@@ -1,6 +1,6 @@
 [project]
 name = "team_divide"
-version = "0.1.0"
+version = "0.1.3"
 description = "Default template for PDM package"
 authors = [
     {name = "Kimwonjoon", email = "kimpass189@gmail.com"},
@@ -15,4 +15,4 @@ license = {text = "MIT"}
 distribution = true
 
 [project.scripts]
-div = "team_divide.div:div"
+t_div = "team_divide.div:main"
